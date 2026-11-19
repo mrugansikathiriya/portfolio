@@ -18,6 +18,7 @@ export interface PersonalInfo {
   linkedIn: string;
   github: string;
   resumeUrl: string;
+  avatarUrl: string;
   summary: string[];
   interests: string[];
   careerObjective: string;
@@ -57,4 +58,5 @@ export interface CertificationItem {
   issuer: string;
   issueDate: string;
   credentialUrl?: string;
+  fileUrl?: string;
 }

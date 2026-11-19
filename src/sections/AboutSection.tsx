@@ -4,7 +4,6 @@ import {
   GraduationCap,
   Lightbulb,
   Target,
-  UserCheck,
   Zap,
 } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
@@ -32,13 +31,17 @@ export const AboutSection: React.FC = () => {
             className="lg:col-span-7 bg-slate-900/40 border border-white/[0.08] hover:border-purple-500/30 rounded-2xl p-6 sm:p-8 backdrop-blur-sm flex flex-col justify-between transition-all"
           >
             <div>
-              <div className="flex items-center gap-3 mb-6">
-                <div className="w-10 h-10 rounded-xl bg-purple-500/10 border border-purple-500/25 flex items-center justify-center text-purple-400">
-                  <UserCheck className="w-5 h-5" />
-                </div>
+              <div className="flex items-center gap-4 mb-6">
+                <img
+                  src={personalInfo.avatarUrl}
+                  alt={personalInfo.name}
+                  className="w-14 h-14 sm:w-16 sm:h-16 rounded-2xl object-cover object-top border-2 border-purple-500/30 shadow-md shrink-0"
+                />
                 <div>
                   <h3 className="text-xl font-bold text-white">Professional Background</h3>
-                  <p className="text-xs text-slate-400">Continuous learner & software craftsman</p>
+                  <p className="text-xs text-slate-400">
+                    {personalInfo.name} • Continuous learner & software craftsman
+                  </p>
                 </div>
               </div>
 

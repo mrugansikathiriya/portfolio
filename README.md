@@ -25,10 +25,11 @@ Designed with a dark charcoal aesthetic, subtle purple and electric blue accents
 - **Hero Section**:
   - Engaging intro with live availability badge.
   - Primary CTAs: *"View My Projects"* and *"Download Resume"*.
-  - Direct GitHub and LinkedIn links.
-  - Interactive syntax-highlighted developer terminal card showcasing real qualifications, core languages, and education metrics.
+  - Direct GitHub, LinkedIn, and Email access buttons.
+  - Interactive Showcase with **Professional Portrait** view and **Developer Code Terminal** view (`mrugansi.profile.ts`).
+  - Key academic metric highlights (CHARUSAT MSc IT '28, VNSGU BSc IT 8.18 CGPA).
 - **About Me**:
-  - Detailed professional narrative and educational foundation.
+  - Professional photograph alongside detailed career narrative.
   - Core engineering pillars and development interests.
   - Stated career objective: building reliable, scalable, and impactful software solutions.
 - **Technical Skills**:
@@ -40,10 +41,11 @@ Designed with a dark charcoal aesthetic, subtle purple and electric blue accents
 - **Education Timeline**:
   - **Master of Science in Information Technology (MSc IT)** — Charotar University of Science and Technology (CHARUSAT), Expected 2028.
   - **Bachelor of Science in Information Technology (BSc IT)** — J.P. Dawar Institute of Information Science & Technology (VNSGU), 2023–2026, **CGPA: 8.18**.
-- **Professional Certifications**:
-  - HTML Training Certificate — IIT Bombay (Feb 2024).
-  - C Training Certificate — IIT Bombay (Sep 2024).
-  - Software Engineering — Coursera (Oct 2026).
+- **Professional Certifications with Verified PDFs**:
+  - **HTML Training Certificate** — IIT Bombay (Feb 2024) with PDF viewer & download.
+  - **C Training Certificate** — IIT Bombay (Sep 2024) with PDF viewer & download.
+  - **Software Engineering** — Coursera (Oct 2026) with PDF viewer & download.
+  - Built-in **Quick Preview Modal** with embedded PDF viewer plus external tab links.
 - **Contact & Connect**:
   - Direct mailto integration with subject prefill.
   - One-click email clipboard copy button.

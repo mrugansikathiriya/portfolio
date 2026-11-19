@@ -26,6 +26,7 @@ export const personalInfo: PersonalInfo = {
   linkedIn: 'https://linkedin.com/in/mrugansi-kathiriya/',
   github: 'https://github.com/mrugansikathiriya',
   resumeUrl: '/resume.pdf',
+  avatarUrl: '/certification/profile.jpg',
   summary: [
     'I am an MSc IT student with a strong foundation in programming, data structures and algorithms, object-oriented programming and database management.',
     'I have hands-on experience developing web applications using JavaScript, PHP, MySQL, REST APIs and modern web technologies.',
@@ -179,15 +180,18 @@ export const certifications: CertificationItem[] = [
     title: 'HTML Training Certificate',
     issuer: 'IIT Bombay',
     issueDate: 'February 2024',
+    fileUrl: '/certification/html-iit-bombay.pdf',
   },
   {
     title: 'C Training Certificate',
     issuer: 'IIT Bombay',
     issueDate: 'September 2024',
+    fileUrl: '/certification/c-language-iit-bombay.pdf',
   },
   {
     title: 'Software Engineering',
     issuer: 'Coursera',
     issueDate: 'October 2026',
+    fileUrl: '/certification/se-coursera.pdf',
   },
 ];
