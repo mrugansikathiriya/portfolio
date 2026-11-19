@@ -19,8 +19,8 @@ export const navItems: NavItem[] = [
 
 export const personalInfo: PersonalInfo = {
   name: 'Mrugansi Kathiriya',
-  role: 'Aspiring Software Engineer',
-  subtitle: 'MSc IT Student | Aspiring Software Engineer',
+  role: 'Full-Stack Developer',
+  subtitle: 'MSc IT Student | Full-Stack Developer',
   location: 'Surat, Gujarat, India',
   email: 'mrugansikathiriya505@gmail.com',
   linkedIn: 'https://linkedin.com/in/mrugansi-kathiriya/',
@@ -28,19 +28,21 @@ export const personalInfo: PersonalInfo = {
   resumeUrl: '/resume.pdf',
   avatarUrl: '/certification/profile.jpg',
   summary: [
-    'I am an MSc IT student with a strong foundation in programming, data structures and algorithms, object-oriented programming and database management.',
-    'I have hands-on experience developing web applications using JavaScript, PHP, MySQL, REST APIs and modern web technologies.',
-    'I am interested in software development, full-stack engineering, problem-solving and continuously learning new technologies.',
+    'I am an MSc IT student and Full-Stack Developer with a strong academic and practical foundation in data structures, algorithms, object-oriented design, and relational database systems.',
+    'I have hands-on experience building complete full-stack web applications using JavaScript, React, PHP, MySQL, RESTful APIs, and modern responsive UI frameworks.',
+    'I am passionate about end-to-end web engineering, clean system architecture, solving complex algorithmic challenges, and continuously mastering modern software stacks.',
   ],
   interests: [
-    'Software Development',
-    'Full-Stack Engineering',
-    'Problem Solving & DSA',
-    'Cloud Computing & APIs',
-    'System Architecture',
+    'Full-Stack Web Development',
+    'Frontend Architecture & Responsive UI',
+    'Backend Services & REST APIs',
+    'Data Structures & Algorithms',
+    'Database Design & Query Optimization',
   ],
+  engineeringPhilosophy:
+    'Dedicated to engineering reliable, scalable, and intuitive full-stack web applications. My focus is on turning real-world requirements into clean, maintainable software architectures with seamless user experiences and robust backend workflows.',
   careerObjective:
-    'My career objective is to become a skilled Software Engineer and build reliable, scalable and useful software solutions.',
+    'Dedicated to engineering reliable, scalable, and intuitive full-stack web applications with clean code, robust APIs, and modern architecture.',
 };
 
 export const socialLinks: SocialLink[] = [

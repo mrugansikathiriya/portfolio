@@ -1,6 +1,6 @@
 # Mrugansi Kathiriya — Personal Developer Portfolio
 
-A premium, modern, and responsive developer portfolio built for **Mrugansi Kathiriya**, an MSc IT Student and Aspiring Software Engineer based in Surat, Gujarat, India.
+A premium, modern, and responsive developer portfolio built for **Mrugansi Kathiriya**, an MSc IT Student and Full-Stack Developer based in Surat, Gujarat, India.
 
 Designed with a dark charcoal aesthetic, subtle purple and electric blue accents, modern typography, smooth scroll-driven navigation, and interactive code visualization.
 

@@ -21,7 +21,8 @@ export interface PersonalInfo {
   avatarUrl: string;
   summary: string[];
   interests: string[];
-  careerObjective: string;
+  engineeringPhilosophy: string;
+  careerObjective?: string;
 }
 
 export interface SkillCategory {

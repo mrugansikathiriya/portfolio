@@ -43,7 +43,7 @@ export const Navbar: React.FC = () => {
               Mrugansi<span className="text-purple-400">.dev</span>
             </span>
             <span className="text-[10px] text-slate-400 tracking-wider uppercase font-medium">
-              Aspiring SE
+              Full-Stack Dev
             </span>
           </div>
         </a>

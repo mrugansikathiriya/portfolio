@@ -27,7 +27,7 @@ export const ContactSection: React.FC = () => {
           eyebrow="Get In Touch"
           title="Let's Connect &"
           highlight="Collaborate"
-          subtitle="Interested in software engineering roles, technical discussions, or collaboration? Feel free to reach out directly."
+          subtitle="Interested in full-stack web development, engineering opportunities, or technical collaboration? Feel free to reach out directly."
         />
 
         {/* Contact Banner & Direct CTA */}
@@ -51,13 +51,13 @@ export const ContactSection: React.FC = () => {
               Drop Me a Message
             </h3>
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed mb-8">
-              I am actively seeking software engineering opportunities. Whether you have an open position, an engineering project, or want to say hello, my inbox is always open.
+              I am actively seeking full-stack developer and software engineering opportunities. Whether you have an open position, an exciting web project, or want to discuss technology, my inbox is always open.
             </p>
 
             {/* Main Action Buttons */}
             <div className="flex flex-wrap items-center justify-center gap-4 w-full">
               <a
-                href={`mailto:${personalInfo.email}?subject=Software%20Engineering%20Inquiry%20-%20Portfolio`}
+                href={`mailto:${personalInfo.email}?subject=Full-Stack%20Development%20Inquiry%20-%20Portfolio`}
                 className="inline-flex items-center justify-center gap-2.5 px-6 py-3.5 rounded-xl font-semibold text-white bg-gradient-to-r from-purple-600 via-indigo-600 to-purple-600 bg-[length:200%_auto] hover:bg-right transition-all duration-300 shadow-lg shadow-purple-600/30 border border-purple-400/30 text-sm sm:text-base"
               >
                 <Send className="w-4 h-4" />

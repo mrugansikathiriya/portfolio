@@ -44,7 +44,7 @@ export const HeroSection: React.FC = () => {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
             </span>
-            <span>Available for Software Engineering Opportunities</span>
+            <span>Open to Full-Stack & Software Engineering Roles</span>
           </div>
 
           {/* Greeting & Name */}
@@ -73,7 +73,7 @@ export const HeroSection: React.FC = () => {
 
           {/* Short & Engaging Intro */}
           <p className="text-slate-300 text-base sm:text-lg leading-relaxed max-w-xl mb-8">
-            An MSc IT student with strong foundations in data structures, algorithms, object-oriented programming, and full-stack web engineering. Driven to engineer reliable, scalable, and impactful software solutions.
+            An MSc IT student and Full-Stack Developer specializing in building end-to-end web applications, responsive user interfaces, and robust backend APIs. Focused on scalable architectures, clean code, and solving real-world challenges.
           </p>
 
           {/* CTAs */}
@@ -267,24 +267,28 @@ export const HeroSection: React.FC = () => {
                         <span className="text-amber-300">"Surat, Gujarat, India"</span>,
                       </div>
                       <div>
+                        <span className="text-slate-400">role:</span>{' '}
+                        <span className="text-purple-300">"Full-Stack Developer"</span>,
+                      </div>
+                      <div>
                         <span className="text-slate-400">coreLanguages:</span> [
+                        <span className="text-purple-300">"JavaScript"</span>,{' '}
                         <span className="text-purple-300">"Java"</span>,{' '}
                         <span className="text-purple-300">"C++"</span>,{' '}
-                        <span className="text-purple-300">"JS"</span>,{' '}
                         <span className="text-purple-300">"Python"</span>,{' '}
                         <span className="text-purple-300">"PHP"</span>
                         ],
                       </div>
                       <div>
                         <span className="text-slate-400">focus:</span> [
-                        <span className="text-cyan-300">"Web Development"</span>,{' '}
-                        <span className="text-cyan-300">"DSA"</span>,{' '}
-                        <span className="text-cyan-300">"REST APIs"</span>
+                        <span className="text-cyan-300">"Full-Stack Web Dev"</span>,{' '}
+                        <span className="text-cyan-300">"REST APIs"</span>,{' '}
+                        <span className="text-cyan-300">"Database Systems"</span>
                         ],
                       </div>
                       <div>
                         <span className="text-slate-400">seekingRole:</span>{' '}
-                        <span className="text-emerald-400 font-semibold">true</span>,
+                        <span className="text-emerald-400 font-semibold">"Full-Stack / Software Engineer"</span>,
                       </div>
                     </div>
                     <div className="text-slate-400 mt-2">&#125;;</div>

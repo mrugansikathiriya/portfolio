@@ -18,7 +18,7 @@ export const AboutSection: React.FC = () => {
           eyebrow="Introduction"
           title="About"
           highlight="My Journey"
-          subtitle="A dedicated technologist passionate about engineering scalable systems and solving real-world challenges."
+          subtitle="A dedicated full-stack developer passionate about engineering scalable web systems, intuitive interfaces, and robust backend architectures."
         />
 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-stretch">
@@ -40,7 +40,7 @@ export const AboutSection: React.FC = () => {
                 <div>
                   <h3 className="text-xl font-bold text-white">Professional Background</h3>
                   <p className="text-xs text-slate-400">
-                    {personalInfo.name} • Continuous learner & software craftsman
+                    {personalInfo.name} • Full-Stack Developer 
                   </p>
                 </div>
               </div>
@@ -52,16 +52,16 @@ export const AboutSection: React.FC = () => {
               </div>
             </div>
 
-            {/* Career Objective Box */}
+            {/* Engineering Philosophy & Focus Box */}
             <div className="mt-8 pt-6 border-t border-white/[0.08] bg-purple-950/20 -mx-6 -mb-6 sm:-mx-8 sm:-mb-8 p-6 sm:p-8 rounded-b-2xl border-t-purple-500/20">
               <div className="flex items-start gap-3">
                 <Target className="w-5 h-5 text-purple-400 shrink-0 mt-0.5" />
                 <div>
                   <h4 className="text-sm font-semibold text-purple-300 uppercase tracking-wider mb-1">
-                    Career Objective
+                    Engineering Vision & Focus
                   </h4>
                   <p className="text-slate-200 text-sm leading-relaxed">
-                    {personalInfo.careerObjective}
+                    {personalInfo.engineeringPhilosophy}
                   </p>
                 </div>
               </div>
