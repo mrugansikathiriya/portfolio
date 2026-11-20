@@ -8,10 +8,7 @@ Designed with a dark charcoal aesthetic, subtle purple and electric blue accents
 
 ## 🚀 Live Links & Profiles
 
-- **LinkedIn**: [linkedin.com/in/mrugansi-kathiriya](https://linkedin.com/in/mrugansi-kathiriya/)
-- **GitHub**: [github.com/mrugansikathiriya](https://github.com/mrugansikathiriya)
-- **Email**: [mrugansikathiriya505@gmail.com](mailto:mrugansikathiriya505@gmail.com)
-- **Live Project Demo (CareerCraft)**: [carrercraft.freedev.app](https://carrercraft.freedev.app/)
+- **Live Demo**: [mrugansikathiriya.vercel.app](https://mrugansikathiriya.vercel.app/)
 
 ---
 
